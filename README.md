@@ -22,3 +22,15 @@ Other detailes about Socket programming with comment in each line is available i
 
 Enjoy your chatroom ;)
 
+# Wireshark
+
+![image](https://user-images.githubusercontent.com/84409349/128592966-fc11eef4-74d5-4b6d-88a5-d4daad03b9d6.png)
+
+ref -- https://www.freecodecamp.org/
+
+Wireshark is a great tool for tracking internet packet and is a fantastic way of learning internet network 
+
+in the wireshark file you can find different way of tracing an IP packet, understaning the addressing in internet and etc.
+
+all the part are supported with a screenshot so you can see the packet clearly
+
